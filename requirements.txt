@@ -6,11 +6,8 @@ plotly
 scikit-learn
 xgboost
 lightgbm
-prophet
 joblib
 jupyter
 ipykernel
-folium
-requests
-tqdm
-kaleido
+warnings
+json
