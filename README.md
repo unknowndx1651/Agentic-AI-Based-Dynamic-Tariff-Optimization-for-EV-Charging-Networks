@@ -125,7 +125,7 @@ OP26_Analytics/
 │   └── tariff_agent/
 │       └── tariff_pricing_rules.json
 │
-├── outputs/
+├── outputs/                              ← Will be generated as Notebooks run
 │   ├── eda/
 │   │   ├── eda_temporal_summary.csv
 │   │   ├── eda_station_summary.csv
