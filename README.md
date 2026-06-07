@@ -245,7 +245,9 @@ OP26_Analytics/
     ```
     pip install -r requirements.txt
     ```
- 3. Run the Notebooks (in order)
+ 3. Put the "acndata_sessions.json" in data/raw.
+ 4. Put the 8 .csv files of Urban EV Dataset in data/raw.
+ 5. Run the Notebooks (in order)
     ``` 
     jupyter notebook
     ```
