@@ -1,0 +1,11 @@
+{
+    "base_tariff_inr": 15.0,
+    "surge_threshold": 0.8,
+    "discount_threshold": 0.3,
+    "surge_cap_inr": 24.0,
+    "discount_floor_inr": 13.2,
+    "surge_elasticity": -0.15,
+    "discount_elasticity": 0.18,
+    "forecast_horizon_slots": 12,
+    "forecast_horizon_hrs": 1
+}

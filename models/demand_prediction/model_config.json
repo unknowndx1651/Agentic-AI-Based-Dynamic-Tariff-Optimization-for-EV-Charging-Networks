@@ -1,0 +1,33 @@
+{
+    "best_model": "XGBoost",
+    "features": [
+        "hour",
+        "minute",
+        "day_of_week",
+        "is_weekend",
+        "month",
+        "week",
+        "period_enc",
+        "total_chargers",
+        "fast_chargers",
+        "slow_chargers",
+        "has_fast_charger",
+        "is_cbd",
+        "area_sqkm",
+        "price_multiplier",
+        "util_now",
+        "util_1hr_ago",
+        "util_2hr_ago",
+        "util_yesterday_same_hour",
+        "util_rolling_1hr",
+        "util_rolling_std_1hr",
+        "util_rolling_24hr"
+    ],
+    "target": "target_utilization_1hr",
+    "train_size": 1647984,
+    "test_size": 411996,
+    "split_date": "2022-07-13 04:00:00",
+    "rmse": 0.05005,
+    "mae": 0.02976,
+    "r2": 0.919
+}

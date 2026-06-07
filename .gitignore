@@ -1,0 +1,11 @@
+data/raw/*.csv
+data/raw/*.json
+data/processed/*.csv
+models/*.pkl
+outputs/demand_agent/*.csv
+outputs/eda/*.csv
+outputs/tariff_agent/*.csv
+outputs/monitoring_agent/*.csv
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
