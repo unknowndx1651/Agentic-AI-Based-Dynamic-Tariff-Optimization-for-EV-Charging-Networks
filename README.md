@@ -1,5 +1,8 @@
 # OP26 Analytics — Agentic AI-Based Dynamic Tariff Optimization for EV Charging Networks
 
+Name : Shah Daksh Akhil  
+Enrolment no. : 24115132  
+
 ## Overview  
 This project builds an **Agentic AI framework** for dynamic tariff optimization across EV charging networks using large-scale real-world charging session data. The system autonomously predicts charging demand 1 hour ahead, recommends optimal per-kWh tariffs in real time, and evaluates pricing decisions through a monitoring and feedback loop — all aimed at maximizing revenue, reducing congestion, and improving charger utilization.
 
@@ -149,8 +152,7 @@ OP26_Analytics/
 │   ├── tariff_agent/
 │   └── monitoring_agent/
 │
-├── presentation/
-│   └── OP26_Analytics_Deck.pptx
+├── OP26_Analytics_Deck.pptx
 │
 ├── requirements.txt
 └── README.md
