@@ -235,16 +235,21 @@ OP26_Analytics/
 ## Setup & Installation
 ### Prerequisites
 - Python 3.10 or higher
-- Jupyter Notebook
-### Install Dependencies
-```bash
-pip install -r requirements.txt
-```
-### Launch Jupyter
-```bash
-cd OP26_Analytics
-jupyter notebook
-```
+
+ 1. Clone the Repository
+    ```  
+    git clone https://github.com/unknowndx1651/Agentic-AI-Based-Dynamic-Tariff-Optimization-for-EV-Charging-Networks.git  
+    cd Agentic-AI-Based-Dynamic-Tariff-Optimization-for-EV-Charging-Networks
+    ```
+ 2. Install Dependencies
+    ```
+    pip install -r requirements.txt
+    ```
+ 3. Run the Notebooks (in order)
+    ``` 
+    jupyter notebook
+    ```
+Each notebook writes its outputs to the appropriate subdirectory under outputs/ and visuals/ automatically.
 
 ---
 ## Technologies Used
